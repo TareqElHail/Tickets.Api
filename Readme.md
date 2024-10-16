@@ -17,6 +17,7 @@ Before running this project, ensure you have the following installed:
 ```bash
 git clone https://github.com/your-repo-name/your-project.git
 cd your-project
+```bash
 
 ### 2. Update the Database Connection String
 
