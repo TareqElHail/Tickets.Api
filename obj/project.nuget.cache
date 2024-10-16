@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqCkwSrGrPHybe1+yuuqf135qNggirbp19Lb+Hl8qbStBgNqihfTQjQfaLisaVRT9m1bd4hukogeKi3WAe9a8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\telhail\\source\\GitHub\\Tickets.Api\\Tickets.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.80.93:8082/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
